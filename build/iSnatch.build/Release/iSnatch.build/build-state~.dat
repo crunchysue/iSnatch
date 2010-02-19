@@ -1,0 +1,378 @@
+TiSnatch
+v7
+r0
+t288229579.320401
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Info.plist" iSnatch-Info.plist
+cCopyStringsFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch" normal x86_64
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch" normal i386
+cCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch" normal ppc
+cCreateUniversalBinary "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app.dSYM" "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch"
+cTouch "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B50402C00000000000000EE
+t1263550508
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004B50402600000000000036E0
+t1263550502
+s14048
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/InfoPlist.strings
+c000000004B7DD07D000000000000002D
+t1266536573
+s45
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib
+c000000004B7DD104000000000002E094
+t1266536708
+s188564
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app
+t1266536779
+s102
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app.dSYM
+t1266536779
+s102
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Info.plist
+t1266536767
+s886
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch
+t1266536779
+s50444
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/PkgInfo
+t1266536767
+s8
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1266536767
+s92
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/MainMenu.nib
+t1266536768
+s35388
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch
+t1266536779
+s13792
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch.LinkFileList
+c000000004B7DD13F00000000000000F2
+t1266536767
+s242
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatchAppDelegate.o
+t1266536778
+s15260
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/main.o
+t1266536778
+s4856
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch
+t1266536779
+s13580
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch.LinkFileList
+c000000004B7DD13F00000000000000F0
+t1266536767
+s240
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatchAppDelegate.o
+t1266536779
+s15152
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/main.o
+t1266536779
+s4884
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch
+t1266536778
+s14400
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch.LinkFileList
+c000000004B7DD13F00000000000000F6
+t1266536767
+s246
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatchAppDelegate.o
+t1266536778
+s21040
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/main.o
+t1266536778
+s5056
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.h
+c000000004B7DD07D0000000000000137
+t1266536573
+s311
+i<Cocoa/Cocoa.h>
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m
+c000000004B7DD07D000000000000016C
+t1266536573
+s364
+i"iSnatchAppDelegate.h"
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch
+c000000004B7DD07D0000000000000091
+t1266536573
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m
+c000000004B7DD07D00000000000000F9
+t1266536573
+s249
+i<Cocoa/Cocoa.h>
+
+N/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch.gch
+t1266536778
+s52733520
+
+N/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch.gch
+t1266536774
+s52860688
+
+N/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch.gch
+t1266536775
+s55490352
+
+NiSnatch-Info.plist
+c000000004B7DD07D00000000000003EA
+t1266536573
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288229567#288229567#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288229578.804450
+e288229579.001393
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatchAppDelegate.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m288229578#288229579#0(0"0(0#0#65"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m4300903632#1596"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/i386" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatchAppDelegate.o"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288229578.707254
+e288229578.890819
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/main.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m288229578#288229578#0(0"0(0#0#51"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m4300903632#1568"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/i386" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s288229579.083825
+e288229579.242139
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatchAppDelegate.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m288229579#288229579#0(0"0(0#0#65"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m4300903632#1603"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/ppc" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatchAppDelegate.o"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s288229578.890932
+e288229579.083723
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/main.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m288229578#288229579#0(0"0(0#0#51"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m4300903632#1575"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/ppc" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/main.o"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatchAppDelegate.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288229578.536356
+e288229578.745410
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatchAppDelegate.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m288229578#288229578#0(0"0(0#0#65"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m4300903632#1602"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/x86_64" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatchAppDelegate.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatchAppDelegate.o"0#
+
+CCompileC build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/main.o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288229578.534734
+e288229578.707144
+r1
+xCompileC
+xbuild/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/main.o
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m288229578#288229578#0(0"0(0#0#51"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m4300903632#1574"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/x86_64" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -include /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/main.m" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib"
+s288229567.871426
+e288229568.299933
+r1
+xCompileXIB
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib288229567#288229568#0(0"0(0#0#71"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib4300903632#353"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s288229567.870499
+e288229567.901925
+r1
+xCopyStringsFile
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings288229567#288229567#0(0"0(0#0#76"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/English.lproj/InfoPlist.strings4300903632#383"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch" normal "x86_64 i386 ppc"
+s288229579.294897
+e288229579.301137
+r1
+xCreateUniversalBinary
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@95"CreateUniversalBinary build/Release/iSnatch.app/Contents/MacOS/iSnatch normal "x86_64 i386 ppc"288229579#288229579#0(0"0(0#0#60"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/x86_64 i386 ppc4300903632#536"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    /usr/bin/lipo -create "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch" "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch" "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch" -output "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch"0#
+
+CGenerateDSYMFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app.dSYM" "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch"
+s288229579.301263
+e288229579.315750
+r1
+xGenerateDSYMFile
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app.dSYM
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch
+lSLF07#2@96"GenerateDSYMFile build/Release/iSnatch.app.dSYM build/Release/iSnatch.app/Contents/MacOS/iSnatch288229579#288229579#0(0"0(0#0#93"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch4300903632#263"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    /Developer/usr/bin/dsymutil "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/MacOS/iSnatch" -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app.dSYM"0#
+
+CLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch" normal i386
+s288229579.001561
+e288229579.085142
+r1
+xLd
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch
+xnormal
+xi386
+lSLF07#2@119"Link /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch288229579#288229579#0(0"0(0#0#0"4300903632#625"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" -filelist "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/i386/iSnatch"0#
+
+CLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch" normal ppc
+s288229579.242242
+e288229579.294745
+r1
+xLd
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch
+xnormal
+xppc
+lSLF07#2@118"Link /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch288229579#288229579#0(0"0(0#0#0"4300903632#622"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" -filelist "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/ppc/iSnatch"0#
+
+CLd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch" normal x86_64
+s288229578.745513
+e288229578.804302
+r1
+xLd
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch
+xnormal
+xx86_64
+lSLF07#2@121"Link /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch288229578#288229578#0(0"0(0#0#0"4300903632#631"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" -filelist "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/Objects-normal/x86_64/iSnatch"0#
+
+CProcessInfoPlistFile "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Info.plist" iSnatch-Info.plist
+s288229567.865599
+e288229567.870410
+r1
+xProcessInfoPlistFile
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Info.plist
+xiSnatch-Info.plist
+lSLF07#2@26"Process iSnatch-Info.plist288229567#288229567#0(0"0(0#0#63"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch-Info.plist4300903632#338"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    builtin-infoPlistUtility iSnatch-Info.plist -genpkginfo "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s288229574.554807
+e288229578.534457
+r1
+xProcessPCH
+x/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch.gch
+xiSnatch_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iSnatch_Prefix.pch288229574#288229578#0(0"0(0#0#63"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch4300903632#1474"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/ppc" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch" -o /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-bfiwjpuepjrlcibreykieknvrlgs/iSnatch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288229568.300066
+e288229574.554612
+r1
+xProcessPCH
+x/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch.gch
+xiSnatch_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iSnatch_Prefix.pch288229568#288229574#0(0"0(0#0#63"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch4300903632#1470"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/x86_64" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch" -o /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-byjndhhrcqmvppdlanowdmwmqwvl/iSnatch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch.gch iSnatch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288229568.301105
+e288229575.670056
+r1
+xProcessPCH
+x/var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch.gch
+xiSnatch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iSnatch_Prefix.pch288229568#288229575#0(0"0(0#0#63"/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch4300903632#1466"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-generated-files.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-own-target-headers.hmap" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-all-target-headers.hmap" -iquote "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/iSnatch-project-headers.hmap" "-F/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/include" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources/i386" "-I/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/iSnatch.build/Release/iSnatch.build/DerivedSources" -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/iSnatch_Prefix.pch" -o /var/folders/tE/tEqmWn6lFvCQzf4Ag6uULU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSnatch_Prefix-grljrsvwaaadbcbckdfepinclywk/iSnatch_Prefix.pch.gch0#
+
+CTouch "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app"
+s288229579.315852
+e288229579.320349
+r1
+xTouch
+x/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app
+lSLF07#2@76"Touch /Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app288229579#288229579#0(0"0(0#0#0"4300903632#149"    cd "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch"    /usr/bin/touch -c "/Users/sue/Documents/iDev/Cocoa Apps/iSnatch/build/Release/iSnatch.app"0#
+

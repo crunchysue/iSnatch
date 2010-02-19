@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	256AC3D90F4B6AC300CF3369 /* iSnatchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {742, 380}}";
+			sepNavSelRange = "{270, 14}";
+			sepNavVisRange = "{210, 154}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 805E7DCD112E07FD00290789 /* iSnatch */;
+		activeTarget = 8D1107260486CEB800E47090 /* iSnatch */;
+		codeSenseManager = 805E7DE2112E080400290789 /* Code sense */;
+		executables = (
+			805E7DCD112E07FD00290789 /* iSnatch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					452,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					564,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					524,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288233438;
+			PBXWorkspaceStateSaveDate = 288233438;
+		};
+		perUserProjectItems = {
+			805E7DFD112E17CF00290789 /* PBXTextBookmark */ = 805E7DFD112E17CF00290789 /* PBXTextBookmark */;
+			805E7E0E112E17FF00290789 /* PBXTextBookmark */ = 805E7E0E112E17FF00290789 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 805E7DE1112E080400290789 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	805E7DCD112E07FD00290789 /* iSnatch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iSnatch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	805E7DE1112E080400290789 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	805E7DE2112E080400290789 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	805E7DFD112E17CF00290789 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iSnatchAppDelegate.m */;
+		name = "iSnatchAppDelegate.m: 15";
+		rLen = 14;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 154;
+		vrLoc = 210;
+	};
+	805E7E0E112E17FF00290789 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iSnatchAppDelegate.m */;
+		name = "iSnatchAppDelegate.m: 15";
+		rLen = 14;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 154;
+		vrLoc = 210;
+	};
+	8D1107260486CEB800E47090 /* iSnatch */ = {
+		activeExec = 0;
+		executables = (
+			805E7DCD112E07FD00290789 /* iSnatch */,
+		);
+	};
+}
